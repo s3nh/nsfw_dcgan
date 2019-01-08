@@ -1,4 +1,4 @@
-# nsfw_generator
+# nsfw_dcgan
 NSFW content generator. DCGAN and Pytorch Implementation
 
 
