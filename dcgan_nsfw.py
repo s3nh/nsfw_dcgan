@@ -23,7 +23,7 @@ class Config:
     ndf = 64  # discriminator channel
     beta1 = 0.5
     batch_size = 32
-    max_epoch = 10
+    max_epoch = 1024
     workers = 2
     gpu = False
 
