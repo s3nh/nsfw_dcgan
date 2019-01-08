@@ -14,4 +14,4 @@ Results after ~100 epochs.
 - train dataset contain 4001 files, resized to 64x64x3. 
 
 
-<img src = "https://gph.is/2CbclKG" >
+![](https://github.com/s3nh/nsfw_generator/blob/master/imgs/nsfw.gif)
