@@ -14,4 +14,4 @@ Results after ~100 epochs.
 - train dataset contain 4001 files, resized to 64x64x3. 
 
 
-<img src = "https://media.giphy.com/media/2iiXrqTwxWQ5uUgTVF/giphy.gif" >
+<img src = "https://gph.is/2CbclKG" >
