@@ -15,3 +15,9 @@ Results after ~100 epochs.
 
 
 ![](https://github.com/s3nh/nsfw_generator/blob/master/imgs/nsfw.gif)
+
+
+TO do :
+
+- Upload state dicts. 
+- use gan generated data in nsfw/sfw classifier (in progress). 
